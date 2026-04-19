@@ -1,3 +1,5 @@
+#Gateway 1 wherein user generates random OTP and enters it into the locker through a custom made keypad (10 pushbuttons).
+#User gets 3 tries to enter the correct code, if not, the code breaks.
 #==========================================================================================
 #IMPORT MODULES
 
